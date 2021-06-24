@@ -1,0 +1,32 @@
+url: https://yao-zhong.github.io
+# baseurl:
+
+# Site settings
+title:
+email: 
+description: "Happy Birthday"
+
+
+# Team names, titles and social links
+people: 
+- name: 
+  pic: 1
+  position: fgdfg
+  social:
+    - title: Linkedin
+      url: #
+    - title: Github
+      url: #
+    - title: Youtube
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
